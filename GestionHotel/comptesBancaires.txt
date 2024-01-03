@@ -1,0 +1,4 @@
+1,Abdelouadoud,0000,6736.0
+2,Safae,0000,10000.0
+3,Fatimazahra,0000,0.0
+4,Nada,0000,17600.0

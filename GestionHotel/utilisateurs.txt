@@ -1,0 +1,4 @@
+1,Laadimi,Abdelouadoud,abdel@mail.com,123,Client
+2,El Mkadem,Nada,nada@mail.com,123,Client
+3,Bouziani,Safae,safae@mail.com,123,Employe
+4,Boujrad,Fatima Zahra,fati@mail.com,123,Client

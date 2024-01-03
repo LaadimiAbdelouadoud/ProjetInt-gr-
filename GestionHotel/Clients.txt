@@ -1,0 +1,3 @@
+1,Laadimi,Abdelouadoud,abdel@mail.com,123,0
+2,El Mkadem,Nada,nada@mail.com,123,0
+4,Boujrad,Fatima Zahra,fati@mail.com,123,0
